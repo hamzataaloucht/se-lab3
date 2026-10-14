@@ -7,5 +7,6 @@ public class Test {
         System.out.println("Standard: " + calculator.cost("STANDARD", 2) + " MAD");
         System.out.println("Express: " + calculator.cost("EXPRESS", 2) + " MAD");
         System.out.println("Drone: " + calculator.cost("DRONE", 2) + " MAD");
+        System.out.println("Pickup: " + calculator.cost("PICKUP", 2) + " MAD");
     }
 }
